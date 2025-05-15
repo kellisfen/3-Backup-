@@ -38,4 +38,4 @@ rsync -av --checksum --exclude '.*/' $HOME /tmp/backup
 
 ![Результат выполнения задания 2](scren/2_zadanie.png)
 
-Содержимое файла конфигурации находится в `backup.crontab`
+Содержимое файла конфигурации находится в [`backup.crontab`](backup.crontab)
